@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+
+}
+
+#sanple {
+  background-color: lime;
+  padding: 150px 90px;
+  margin: 30px;
+}
